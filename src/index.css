@@ -60,3 +60,7 @@ ul {
 .game-info {
   margin-top: 20px;
 }
+
+li {
+  list-style-type: none;
+}
